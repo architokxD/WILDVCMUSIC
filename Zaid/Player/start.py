@@ -253,7 +253,7 @@ async def start(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton("✘ OWNER", url="https://t.me/aakash0202"),
-                InlineKeyboardButton("✘ ABOUT OWNER", url=f"https://t.me/ABOUT_AAKASH"
+                InlineKeyboardButton("✘ ABOUT OWNER", url=f"https://t.me/ABOUT_AAKASH")
             ],
             [
                 InlineKeyboardButton("✘ ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
