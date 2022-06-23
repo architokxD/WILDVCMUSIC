@@ -45,7 +45,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/OMEGAVCBOT?startgroup=true"
                     )
                 ],
                 [
@@ -53,15 +53,15 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                         "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/ITZ-ZAID/Zaid-Vc-Player"
+                        "ABOUT OWNER", url="https:t.me/about_aakash"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/WILDBOTUPDATES"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "OWNER", url=f"https://t.me/AAKASH0202"
                     )
                 ]
                 
@@ -79,7 +79,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ 💞", url=f"https://t.me/{GROUP_SUPPORT}")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ 💞", url=f"https://t.me/WILDXBOTSUPPORT")
                 ]
             ]
         ),
@@ -90,12 +90,12 @@ async def start(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/92688f2c44a35ba673c23.png",
-        caption=f"""Here Is The Source Code Fork And Give Stars ✨""",
+        caption=f"""REPO TOH NAHI MIELGA BUT TU MERA MUH ME LELE ✨""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/ITZ-ZAID/Zaid-Vc-Player")
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://PORNHUB.COM")
                 ]
             ]
         ),
